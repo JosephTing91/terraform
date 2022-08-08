@@ -3,7 +3,7 @@
      bucket = "terraform-statefiles-ahjoe"
      key    = "statefileTest.tfstate"
      region = "us-west-2"
-     profile = "jespo"
+     profile = "default"
      dynamodb_table= "terraform-project"
     }
   }
